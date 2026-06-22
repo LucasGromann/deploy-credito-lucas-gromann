@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 
 # Configuração da página
 st.set_page_config(
-    page_title="Sistema de Análise de Crédito",
+    page_title="Sistema de Análise de Crédito - By Lucas Gromann",
     page_icon="💳",
     layout="wide",
     initial_sidebar_state="expanded"
